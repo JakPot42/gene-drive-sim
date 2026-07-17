@@ -1,4 +1,4 @@
-# Gene Drive Ecosystem Simulator + Policy Brief (P42)
+# Gene Drive Ecosystem Simulator + Policy Brief
 
 Agent-based model of a gene-drive mosquito intervention and its unintended ecological consequences.
 After each run, **Claude generates a policy brief** connecting the simulation outcomes to real
